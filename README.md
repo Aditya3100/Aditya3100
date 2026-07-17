@@ -4,100 +4,142 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-09090B?style=for-the-badge&logoColor=8B5CF6" /></a>
+# Aditya Kashyap
+
+### AI Engineer · Document Intelligence · AI Agents
+
+Building production-ready AI systems powered by LLMs, Computer Vision, and Retrieval-Augmented Generation.
+
+<br/>
+
+🟢 Available for freelance projects &nbsp;·&nbsp; 📍 Mumbai, India &nbsp;·&nbsp; ⚡ Usually replies within 24 hours
+
+<br/>
+
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/GMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
 <a href="./assets/resume.pdf"><img src="https://img.shields.io/badge/RESUME-09090B?style=for-the-badge&logoColor=3B82F6" /></a>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## What I Build
 
-### Hey there! I'm Aditya 👋
-
-**AI Engineer** *(Building Intelligent Systems)*
-
-I'm based in [your city] and focused on building production-ready AI systems — think **LLMs**, **RAG pipelines**, **document intelligence**, and **computer vision** — wired into real backends, not notebooks.
-
-I like turning messy, ambiguous problems into scalable, working software.
-
-</td>
-<td width="40%" valign="top">
-
-**Currently**
-
-`↳` Building **Auroraa Vault** — AI-driven document intelligence
-
-`↳` Exploring agentic RAG + local LLM deployments
-
-`↳` Refining my stack: `FastAPI` · `LangChain` · `Next.js`
-
-</td>
-</tr>
-</table>
+✓ AI Agents &nbsp;&nbsp;✓ RAG Systems &nbsp;&nbsp;✓ Document Intelligence &nbsp;&nbsp;✓ Computer Vision &nbsp;&nbsp;✓ AI Workflow Automation &nbsp;&nbsp;✓ FastAPI Backends
 
 <br/>
 
-<div align="center">
+## Stack
 
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**AI / ML**
 ![Python](https://img.shields.io/badge/-Python-18181B?style=flat-square&logo=python&logoColor=8B5CF6)
+![PyTorch](https://img.shields.io/badge/-PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=8B5CF6)
 ![LangChain](https://img.shields.io/badge/-LangChain-18181B?style=flat-square&logo=langchain&logoColor=8B5CF6)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-18181B?style=flat-square&logo=openai&logoColor=8B5CF6)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-18181B?style=flat-square&logo=huggingface&logoColor=8B5CF6)
-![PyTorch](https://img.shields.io/badge/-PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=8B5CF6)
-![FastAPI](https://img.shields.io/badge/-FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=3B82F6)
-![MongoDB](https://img.shields.io/badge/-MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=3B82F6)
-![Next.js](https://img.shields.io/badge/-Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=3B82F6)
-![Docker](https://img.shields.io/badge/-Docker-18181B?style=flat-square&logo=docker&logoColor=8B5CF6)
 
-</div>
+</td>
+<td valign="top" width="25%">
+
+**Vision**
+![OpenCV](https://img.shields.io/badge/-OpenCV-18181B?style=flat-square&logo=opencv&logoColor=3B82F6)
+![YOLO](https://img.shields.io/badge/-YOLO-18181B?style=flat-square&logoColor=3B82F6)
+![EasyOCR](https://img.shields.io/badge/-EasyOCR-18181B?style=flat-square&logoColor=3B82F6)
+![PaddleOCR](https://img.shields.io/badge/-PaddleOCR-18181B?style=flat-square&logoColor=3B82F6)
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/-FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=8B5CF6)
+![Flask](https://img.shields.io/badge/-Flask-18181B?style=flat-square&logo=flask&logoColor=8B5CF6)
+![MongoDB](https://img.shields.io/badge/-MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=3B82F6)
+![Docker](https://img.shields.io/badge/-Docker-18181B?style=flat-square&logo=docker&logoColor=3B82F6)
+
+</td>
+<td valign="top" width="25%">
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/-Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=8B5CF6)
+![React](https://img.shields.io/badge/-React-18181B?style=flat-square&logo=react&logoColor=3B82F6)
+![Tailwind](https://img.shields.io/badge/-Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=3B82F6)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## Pinned
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Auroraa Vault**
-Document intelligence platform — ingest, embed, and query messy documents through a RAG pipeline.
+### Auroraa Vault
+AI-powered document verification platform for NBFC lending workflows.
 
-`Python` · `FastAPI` · `LangChain` · ⭐ —
+✓ OCR &nbsp;&nbsp;✓ Computer Vision &nbsp;&nbsp;✓ LLM Validation &nbsp;&nbsp;✓ Risk Scoring
+
+`Python` · `FastAPI` · `LangChain`
+
+[→ View Project](#)
 
 </td>
 <td width="50%" valign="top">
 
-**Career Agent**
-Autonomous agent that scrapes job boards, tracks applications, and keeps a live status log.
+### Career Agent
+Autonomous agent that scrapes job boards, tracks applications, and maintains a live status log — no manual spreadsheet needed.
 
-`Python` · `RAG` · `HuggingFace` · ⭐ —
+✓ Web Scraping &nbsp;&nbsp;✓ RAG &nbsp;&nbsp;✓ Scheduling
+
+`Python` · `RAG` · `HuggingFace`
+
+[→ View Project](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Movify**
-Full-stack app for [short description] with an AI-assisted recommendation layer.
+### Movify
+[One line on the real problem it solves] with an AI-assisted recommendation layer.
 
-`Next.js` · `Tailwind` · `OpenAI` · ⭐ —
+✓ Recommendation Engine &nbsp;&nbsp;✓ Full-Stack
+
+`Next.js` · `Tailwind` · `OpenAI`
+
+[→ View Project](#)
 
 </td>
 <td width="50%" valign="top">
 
-**Home Credit**
-Computer vision pipeline for [short description of the problem/dataset].
+### Home Credit
+Computer vision pipeline for [one line on the dataset/problem — e.g. document fraud detection on loan applications].
 
-`PyTorch` · `OpenCV` · ⭐ —
+✓ Image Classification &nbsp;&nbsp;✓ Preprocessing Pipeline
+
+`PyTorch` · `OpenCV`
+
+[→ View Project](#)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## Research
+
+Currently reading into:
+
+`Agentic RAG` · `Local LLM Inference` · `Multimodal AI` · `Document Forensics`
 
 <br/>
 
@@ -106,7 +148,7 @@ Computer vision pipeline for [short description of the problem/dataset].
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=09090B&title_color=8B5CF6&text_color=FFFFFF" width="35%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=09090B&stroke=09090B&ring=8B5CF6&fire=3B82F6&currStreakLabel=FFFFFF" width="38%" />
 
 <br/>
 
@@ -116,16 +158,21 @@ Computer vision pipeline for [short description of the problem/dataset].
 
 <br/>
 
-## Beyond the Code
+## Beyond Engineering
 
-Into pixel art, retro game design, and anime — worldbuilding and systems design done seriously. Currently:
-
-![Anime](https://img.shields.io/badge/watching-Attack%20on%20Titan-18181B?style=flat-square&labelColor=09090B&color=8B5CF6)
-![Anime](https://img.shields.io/badge/rewatching-Cowboy%20Bebop-18181B?style=flat-square&labelColor=09090B&color=3B82F6)
-![Anime](https://img.shields.io/badge/on%20deck-Ghost%20in%20the%20Shell-18181B?style=flat-square&labelColor=09090B&color=8B5CF6)
+I enjoy UI design, product thinking, pixel art, and retro games — and I keep an eye on anime worldbuilding for how it handles complex systems and pacing, which sneaks into how I think about product design.
 
 <br/>
 
 <div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Building AI that solves real business problems.**
+Let's build something together.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 <sub>Aditya Kashyap · AI Engineer</sub>
+
 </div>
