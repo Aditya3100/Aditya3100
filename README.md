@@ -147,12 +147,12 @@ Currently reading into:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=09090B&stroke=09090B&ring=8B5CF6&fire=3B82F6&currStreakLabel=FFFFFF" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya3100&show_icons=true&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya3100&hide_border=true&background=09090B&stroke=09090B&ring=8B5CF6&fire=3B82F6&currStreakLabel=FFFFFF" width="38%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=09090B&color=8B5CF6&line=3B82F6&point=FFFFFF&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya3100&bg_color=09090B&color=8B5CF6&line=3B82F6&point=FFFFFF&hide_border=true" width="90%" />
 
 </div>
 
