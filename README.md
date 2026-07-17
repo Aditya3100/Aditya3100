@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="1400" height="360" alt="banner" />
+<img src="./assets/banner.png" alt="Aditya Kashyap banner" style="width: 100%; max-width: 1400px; height: auto; display: block; margin: 0 auto;" />
 
 <br/><br/>
 
@@ -147,12 +147,12 @@ Currently reading into:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya3100&show_icons=true&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya3100&hide_border=true&background=09090B&stroke=09090B&ring=8B5CF6&fire=3B82F6&currStreakLabel=FFFFFF" width="38%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Aditya3100&show_icons=true&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" width="48%" alt="GitHub stats" /> -->
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya3100&hide_border=true&background=09090B&stroke=09090B&ring=8B5CF6&fire=3B82F6&currStreakLabel=FFFFFF" width="43%" alt="GitHub streak stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya3100&theme=react-dark&bg_color=09090B&color=8B5CF6&line=3B82F6&point=FFFFFF&hide_border=true" width="48%" alt="Contribution activity graph" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya3100&bg_color=09090B&color=8B5CF6&line=3B82F6&point=FFFFFF&hide_border=true" width="90%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya3100&theme=react-dark&bg_color=09090B&color=8B5CF6&line=3B82F6&point=FFFFFF&hide_border=true" width="90%" alt="Contribution activity graph" /> -->
 
 </div>
 
